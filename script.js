@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function() {
-    const songName = "Bohemian Rhapsody";
-    const youtubeLink = "https://www.youtube.com/watch?v=3JZ4pnNtyxQ";
+    const songName = "Anurag Saikia";
+    const youtubeLink = "https://youtu.be/BcSejVIxB0E?si=HukwTuQgacF62PTe";
     const contentDiv = document.createElement('div');
     const songParagraph = document.createElement('p');
     const songAnchor = document.createElement('a');
